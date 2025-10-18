@@ -20,3 +20,7 @@
     align-items: center;
     justify-content: space-between;
 }
+#me {
+    color: crimson;
+    font-size: 50px;
+}
